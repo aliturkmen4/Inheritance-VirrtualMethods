@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\Kalıtım_EnginDemirog\bin\Debug\Kalıtım_EnginDemirog.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\Kalıtım_EnginDemirog\bin\Debug\Kalıtım_EnginDemirog.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\Kalıtım_EnginDemirog\bin\Debug\Kalıtım_EnginDemirog.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\Kalıtım_EnginDemirog\obj\Debug\Kalıtım_EnginDemirog.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\Kalıtım_EnginDemirog\obj\Debug\Kalıtım_EnginDemirog.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\Kalıtım_EnginDemirog\obj\Debug\Kalıtım_EnginDemirog.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\Kalıtım_EnginDemirog\obj\Debug\Kalıtım_EnginDemirog.pdb

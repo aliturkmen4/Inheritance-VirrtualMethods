@@ -1,0 +1,6 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\VitualMethods\bin\Debug\VitualMethods.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\VitualMethods\bin\Debug\VitualMethods.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\VitualMethods\bin\Debug\VitualMethods.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\VitualMethods\obj\Debug\VitualMethods.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\VitualMethods\obj\Debug\VitualMethods.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Kalıtım_EnginDemirog\VitualMethods\obj\Debug\VitualMethods.pdb

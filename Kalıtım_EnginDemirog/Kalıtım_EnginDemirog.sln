@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalıtım_EnginDemirog", "Kalıtım_EnginDemirog\Kalıtım_EnginDemirog.csproj", "{31E80EF5-3AE6-4E0F-9A0F-CA4FE01FC81C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VitualMethods", "VitualMethods\VitualMethods.csproj", "{C8BDB993-B162-4FE7-9A98-F4A1A22CB987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E80EF5-3AE6-4E0F-9A0F-CA4FE01FC81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E80EF5-3AE6-4E0F-9A0F-CA4FE01FC81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E80EF5-3AE6-4E0F-9A0F-CA4FE01FC81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E80EF5-3AE6-4E0F-9A0F-CA4FE01FC81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BDB993-B162-4FE7-9A98-F4A1A22CB987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BDB993-B162-4FE7-9A98-F4A1A22CB987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BDB993-B162-4FE7-9A98-F4A1A22CB987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BDB993-B162-4FE7-9A98-F4A1A22CB987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {136D1DA5-9D9E-4E37-9B40-7B7C06B09248}
+	EndGlobalSection
+EndGlobal
